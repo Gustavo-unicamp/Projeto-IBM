@@ -9,7 +9,7 @@ Para o correto funcionamento do código deve-se, primeiramente:
      - Na sequência, clique em Browse e selecione a pasta em que se encontra o arquivo baixado.
      - Feito isso, o projeto será adicionado na seção Package Explorer e está pronto para ser executado.
 
-Para executar o código o projeto requer que os nomes que irão receber um email sejam adicionados. Então, os passos para a execução são:
+Para executar o projeto é necessário adicionar os nomes que irão receber um email. Então, os passos para a execução são:
 1) Acesse a função adicionarNomes que se encontra na classe GeradorEmails, dentro do pacote Emails.
 2) Verifique os nomes já inseridos e os altere ou exclua-os conforme sua necessidade.
 3) Caso queira inserir mais nomes utilize o seguinte comando: listaNomes.add("Nome desejado");
